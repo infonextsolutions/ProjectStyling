@@ -1,0 +1,140 @@
+.switch_formGroup {
+  flex-direction: row !important;
+  align-items: center;
+  margin-bottom: 10px;
+}
+
+.switch_formControlLabel {
+  margin-left: 10px;
+}
+
+.price_range_main_container {
+  display: flex;
+  flex-direction: column;
+}
+.price_range_label {
+  color: black;
+  font-size: larger;
+}
+.price_range_min_max_slider_container {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  margin-top: 7px;
+}
+.price_range_min_max_text {
+  font-size: large;
+  color: black;
+}
+.price_box_main_container {
+  display: flex;
+  flex-direction: column;
+}
+.price_box_label {
+  color: black;
+}
+.price_box_input_container {
+  display: flex;
+  align-items: center;
+  margin-top: 3px;
+}
+.price_box_input {
+  width: 60px;
+  padding: 2px;
+}
+.price_box_input_label {
+  font-size: larger;
+  color: black;
+  margin-left: 5px;
+}
+.margin_left5px {
+  margin-left: 5px;
+}
+.modal_container {
+  height: 100vh;
+  width: 1000vw;
+  position: absolute;
+  top: 3%;
+  left: 0;
+  right: 0;
+  align-self: center;
+  justify-content: center;
+  margin: auto;
+}
+.autocomplete_classname {
+  background-color: transparent;
+}
+.autocomplete_textfield_classname {
+  background-color: transparent;
+}
+.text_bold {
+  font-weight: bold;
+}
+.search_form_box {
+  margin-top: 20px;
+}
+.dropselect {
+  color: #2f2a4a !important;
+  background-color: white !important;
+  height: auto;
+  width: auto;
+  /* padding: 2px; */
+  /* height: 45px; */
+  border-radius: 12px;
+}
+.inputlabeldrop {
+  margin-bottom: 2px;
+  color: #2f2a4a !important;
+  border: none;
+}
+.inputlabeldrop:hover {
+  color: white !important;
+  background-color: #2f2a4a !important;
+}
+.inputlabeldrop :active {
+  /* color: white; */
+  background-color: #2f2a4a !important;
+}
+.Mui-selected {
+  background-color: #2f2a4a !important;
+  color: white !important;
+}
+/* .css-kk1bwy-MuiButtonBase-root-MuiMenuItem-root.Mui-selected {
+  background-color: #2f2a4a;
+  color: white;
+} */
+.Mui-selected:hover {
+  background-color: #2f2a4a !important;
+  color: white !important;
+}
+.Mui-selected:focus {
+  background-color: #2f2a4a !important;
+  color: white !important;
+}
+
+/* .css-kk1bwy-MuiButtonBase-root-MuiMenuItem-root.Mui-selected:hover {
+  background-color: #2f2a4a;
+  color: white;
+} */
+/* .MuiInputLabel-root {
+  margin-top: -8px;
+} */
+.css-1sumxir-MuiFormLabel-root-MuiInputLabel-root {
+  margin-top: -10px;
+}
+.MuiPaper-root {
+  background-color: #f5f5f5 !important;
+  border-radius: 20px;
+}
+.MuiCard-root {
+  background-color: #f5f5f5 !important;
+  border-radius: 20px;
+}
+.MuiContainer-maxWidthXl {
+  background-color: white !important;
+}
+.css-1qvr50w-MuiTypography-root {
+  color: #2f2a4a !important;
+  font-size: 34px;
+  font-weight: bolder;
+}
